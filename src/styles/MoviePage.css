@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    background-color: whitesmoke;
+    height: 100vh;
+}
+
+.wrapper h1 {
+    margin-left: 15%;
+}
+
+.search-bar {
+    background-color: white;
+    margin: 1%;
+    width: 75%;
+    margin-left: 15%;
+    padding: 2%;
+}
+
+.search-bar input {
+    width: 100%;
+    margin-bottom: 1%;
+}
+.search-bar button {
+    display: block;
+}
+
+.results {
+    background-color: white;
+    margin: 2% 5%;
+    width: 30%;
+    display: inline-block;
+}
+
+.nomination {
+    background-color: white;
+    display: inline-block;
+    margin-top: 2%;
+    width: 30%;
+}
